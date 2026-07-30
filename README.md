@@ -76,11 +76,9 @@ student-information-system
 
 ## Contributors
 
-- Leader
-- UI Designer
-- Front-end Developer
-- Back-end Developer
-- Documentation Member
+- Michaael
+- Ronie Boy
+- Nicolo
 
 ---
 
