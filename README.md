@@ -1,2 +1,2 @@
-# barangay-information-system(rb)
+# student-information-system
 BSIT Group Project Repository

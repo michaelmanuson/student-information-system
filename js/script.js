@@ -1,0 +1,1 @@
+console.log("Student Information System Loaded Successfully!");
