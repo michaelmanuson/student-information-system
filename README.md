@@ -62,7 +62,7 @@ student-information-system
 
 ## GitHub Workflow
 
-1. Clone the repository.
+1. Clone the repository...
 2. Create a personal branch.
 3. Develop assigned tasks.
 4. Stage changes using `git add .`
