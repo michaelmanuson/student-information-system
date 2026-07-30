@@ -34,11 +34,11 @@ The Student Information System is a simple web-based project developed to demons
 
 ## Members
 
-- Leader
-- UI Designer
-- Front-end Developer
-- Back-end Developer
-- Documentation Member
+- Leader : Michael Eric C. Manuson
+- UI Designer : Ronie Boy N. Vicquerra
+- Front-end Developer : Gabriel Nicolo C. Lindayag
+- Back-end Developer : Michael Eric C. Manuson
+- Documentation : Michael Eric C. Manuson
 
 ## Status
 
